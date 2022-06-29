@@ -1,42 +1,28 @@
-#react
-#typescript
-#eslint
-#prettierrc
-#simple
+#react   
+#typescript   
+#eslint   
+#prettierrc   
+#simple   
 
-#Styled Components
-#material-ui
+#Styled Components   
+#material-ui   
 
-npm install styled-components
+npm install styled-components   
+npm install --save-dev styled-components @types/styled-components babel-plugin-styled-components   
 
-npm install --save-dev styled-components @types/styled-components babel-plugin-styled-components
+머터리얼 UI 설치.   
+npm install @material-ui/core   
 
-머터리얼 UI 설치.
+최신react 에서 동작하지 않아 아래와 같이 설치.   
+npm install @mui/material @emotion/react @emotion/styled --legacy-peer-deps   
+npm install @mui/icons-material --legacy-peer-deps   
 
-npm install @material-ui/core
+icons 사용시.   
+npm install @material-ui/icons   
 
-npm install @mui/material @emotion/react @emotion/styled --legacy-peer-deps
+참고URL   
+https://mui.com/material-ui/getting-started/templates/   
 
-npm install @mui/icons-material --legacy-peer-deps
-
-최신react 에서 동작하지 않아 위와 같이 설치.
-
-icons 사용시.
-
-npm install @material-ui/icons
-
-참고URL
-
-https://mui.com/material-ui/getting-started/templates/
-
-[KeyPoint]
-#Styled Components
-#material-ui
-
-```java
-public class BootSpringBootApplication {
-  public static void main(String[] args) {
-    System.out.println("Hello, Honeymon");
-  }
-}
-```
+[KeyPoint]   
+#Styled Components   
+#material-ui   

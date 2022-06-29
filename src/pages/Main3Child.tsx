@@ -5,6 +5,7 @@ const Div = styled.div`
   width: 100%;
   color: ${({ theme }) => theme.colors.balck};
 `;
+
 interface propsData {
   children: React.ReactNode;
 }
