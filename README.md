@@ -30,7 +30,5 @@ npm install @material-ui/icons
 https://mui.com/material-ui/getting-started/templates/
 
 [KeyPoint]
-
 #Styled Components
-
 #material-ui
